@@ -1,6 +1,3 @@
-# OwensKey
-# 42582b3c16d744ba9061736318ed7a6c.qzTHH9U2hT1H353eWhhlOE8P
-
 import subprocess
 from bs4 import BeautifulSoup
 import re
