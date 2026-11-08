@@ -89,7 +89,7 @@ print(summary_str)
 
 print("LLM Summary:\n")
 
-api_key = "42582b3c16d744ba9061736318ed7a6c.qzTHH9U2hT1H353eWhhlOE8P"
+api_key = "" #redacted
 
 client = Client(
     host="https://ollama.com",
